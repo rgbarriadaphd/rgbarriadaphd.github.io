@@ -51,3 +51,14 @@ in developing innovative solutions as a **Data Scientist** or **Machine Learning
 - [2018] **Machine Learning** (100h). Standford University, Coursera.
 - [2018] **Design and development of Field Robotics Vehicles for Plant Nursing** (260h). University of Southern Denmark, odense, Denmarl.
 - [2018] **Scientific Programming in C++** (35h). Katholike Universiteit Leuven, Belgium.
+
+
+## Complementary Education
+
+## CV
+
+You can donwnload my CV [here]({{ site.url }}/download/CV_Ruben_Gonzalez_Barriada_v2.pdf).
+
+## Contact
+
+You can reach me at: {{ site.email }} **_[ruben.gbarriada@gmail.com](mailto:ruben.gbarriada@gmail.com)_**
