@@ -3,12 +3,10 @@ title: 'Rubén G. Barriada'
 layout: single
 author_profile: true
 excerpt: 'Software Engineer | PhD candidate in Bioinformatics | AI Enthusiast'
-#header:
-#  overlay_image: /images/banner.jpg
-#  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+header:
+  overlay_image: /assets/images/banner.jpg
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
-
-# About 
 
 Software engineer with extensive experience in the full product lifecycle, specialized in solving complex problems and
 fostering multidisciplinary learning. With a team-oriented mindset and a focus on continuous improvement, I excel
