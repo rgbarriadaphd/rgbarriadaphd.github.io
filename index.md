@@ -16,49 +16,59 @@ in adaptability and critical thinking. Passionate about **artificial intelligenc
 models using medical imaging for the detection of cardiovascular diseases. I am seeking to leverage my expertise
 in developing innovative solutions as a **Data Scientist** or **Machine Learning Engineer**.
 
----
+[//]: # (---)
 
-## Work experience
+[//]: # ()
+[//]: # (## Work experience)
 
-- [Feb 21 - May 24] **Senior Software Engineer**. SimpleCloud · León, Spain (Remote)
-- [Feb 20 - Jan 21] **Senior Software Engineer**. Ecosat Airships · León, Spain
-- [Jun 16 - Feb 20] **Software Engineer**. Airbus Defence and Space · Getafe, Spain
-- [Jul 12 - Jun 16] **Software Engineer**. Airbus Operations · Madrid, Spain
-- [Aug 11 - Jun 12] **Software Engineer**. Indra Systems · Madrid, Spain
-- [Sep 10 - Jun 11] **Research Engineer**. Technical University of Madrid (UPM) · Madrid, Spain
+[//]: # ()
+[//]: # (- [Feb 21 - May 24] **Senior Software Engineer**. SimpleCloud · León, Spain &#40;Remote&#41;)
 
- 
-## Education
+[//]: # (- [Feb 20 - Jan 21] **Senior Software Engineer**. Ecosat Airships · León, Spain)
 
-- [Sep 19 - Jun 25] **PhD candidate in Bioinformatics**. Open University of Catalonia · Barcelona, Spain
-- [Aug 09 - Jun 11] **M.Sc. in Robot Systems Engineering**. University of Southern Denmark · Odense, Denmark
-- [Sep 04 - Jun 09] **B.Eng. in Software Systems Engineering**. Technical University of Madrid (UPM) · Madrid, Spain
+[//]: # (- [Jun 16 - Feb 20] **Software Engineer**. Airbus Defence and Space · Getafe, Spain)
 
-## Publications
+[//]: # (- [Jul 12 - Jun 16] **Software Engineer**. Airbus Operations · Madrid, Spain)
 
-- [Jan 23] **An Overview of Deep-Learning-Based Methods for Cardiovascular Risk Assessment with Retinal Images**. Diagnostics, Artificial Intelligence in Eye Disease
-  DOI: [https://doi.org/10.3390/diagnostics13010068](https://doi.org/10.3390/diagnostics13010068)      
-- [Jan 22] **Deep Learning of Retinal Imaging: A Useful Tool for Coronary Artery Calcium Score Prediction in Diabetic Patients**. Applied Sciences, Deep Neural Networks
-  DOI: [https://doi.org/10.3390/app12031401](https://doi.org/10.3390/app12031401)
-  
+[//]: # (- [Aug 11 - Jun 12] **Software Engineer**. Indra Systems · Madrid, Spain)
 
-## Complementary Education
+[//]: # (- [Sep 10 - Jun 11] **Research Engineer**. Technical University of Madrid &#40;UPM&#41; · Madrid, Spain)
 
-- [2024] **AI for Medicine Specialization** (150h). Deeplearning.ai
-- [2024] **Mathematics for Machine Learning and Data Science Specialization** (120h). Deeplearning.ai
-- [2024] **Mathematics for Machine Learning and Data Science Specialization** (120h). Deeplearning.ai
-- [2018] **Deep Learning Specialization** (100h). Coursera.
-- [2018] **Machine Learning** (100h). Standford University, Coursera.
-- [2018] **Design and development of Field Robotics Vehicles for Plant Nursing** (260h). University of Southern Denmark, odense, Denmarl.
-- [2018] **Scientific Programming in C++** (35h). Katholike Universiteit Leuven, Belgium.
+[//]: # ()
+[//]: # ( )
+[//]: # (## Education)
 
+[//]: # ()
+[//]: # (- [Sep 19 - Jun 25] **PhD candidate in Bioinformatics**. Open University of Catalonia · Barcelona, Spain)
 
-## Complementary Education
+[//]: # (- [Aug 09 - Jun 11] **M.Sc. in Robot Systems Engineering**. University of Southern Denmark · Odense, Denmark)
 
-## CV
+[//]: # (- [Sep 04 - Jun 09] **B.Eng. in Software Systems Engineering**. Technical University of Madrid &#40;UPM&#41; · Madrid, Spain)
 
-You can donwnload my CV [here]({{ site.url }}/download/CV_Ruben_Gonzalez_Barriada_v2.pdf).
+[//]: # ()
+[//]: # ()
+[//]: # (## Complementary Education)
 
-## Contact
+[//]: # ()
+[//]: # (- [2024] **AI for Medicine Specialization** &#40;150h&#41;. Deeplearning.ai)
 
-You can reach me at: {{ site.email }} **_[ruben.gbarriada@gmail.com](mailto:ruben.gbarriada@gmail.com)_**
+[//]: # (- [2024] **Mathematics for Machine Learning and Data Science Specialization** &#40;120h&#41;. Deeplearning.ai)
+
+[//]: # (- [2024] **Mathematics for Machine Learning and Data Science Specialization** &#40;120h&#41;. Deeplearning.ai)
+
+[//]: # (- [2018] **Deep Learning Specialization** &#40;100h&#41;. Coursera.)
+
+[//]: # (- [2018] **Machine Learning** &#40;100h&#41;. Standford University, Coursera.)
+
+[//]: # (- [2018] **Design and development of Field Robotics Vehicles for Plant Nursing** &#40;260h&#41;. University of Southern Denmark, odense, Denmarl.)
+
+[//]: # (- [2018] **Scientific Programming in C++** &#40;35h&#41;. Katholike Universiteit Leuven, Belgium.)
+
+[//]: # ()
+[//]: # ()
+[//]: # (## CV)
+
+[//]: # ()
+[//]: # (You can donwnload my CV [here]&#40;{{ site.url }}/download/CV_Ruben_Gonzalez_Barriada_v2.pdf&#41;.)
+
+[//]: # ()
