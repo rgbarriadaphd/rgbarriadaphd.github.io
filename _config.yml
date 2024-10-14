@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Rubén G. Barriada"
   avatar : "/assets/images/cv_foto.jpg"
-  bio    : "Senior Software Engineer"
+  bio    : "I’m a software engineer and a PhD candidate in Bioinformatics at UOC. My research is focused on deep learnig-based methods using retinal imaging to better understand and treat cardiovascular diseases. "
   location: "León, Spain"
   links:
     - label: "Email"
