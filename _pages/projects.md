@@ -2,10 +2,8 @@
 permalink: /projects/
 layout: single
 author_profile: true
-title: "Publications"
+title: "Projects"
 classes: wide
 ---
-
-## Projects
 
 You can find my projects here: [https://github.com/rgbarriadaphd](https://github.com/rgbarriadaphd)
