@@ -22,6 +22,6 @@ reach out for collaborations or questions via GitHub, LinkedIn, or email.
 ---
 ## CV
 
-You can find detailed information here: [CV](https://rgbarriadaphd.github.io/assets/archives/CV_Ruben_Gonzalez_Barriada_v2.pdf){:target="_blank"}
+You can find detailed information here: [CV](https://rgbarriadaphd.github.io/assets/archives/Ruben_Gonzalez_Barriada_CV.pdf){:target="_blank"}
 
 ---
